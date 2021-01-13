@@ -2,6 +2,8 @@
 
 **I have not tested this yet, I am still waiting for an answer on how the Roblox censorship should work in public games! If you use this, you are on your own for now. You *should* be fine without any censorship if you are displaying info about what the local user is currently playing on Spotify, however I am unsure if this statement is true. You will have to put a censorship if you share what the local user is listening to, to other players.** Also don't make the user play songs that contain swearing. Or NSFW. If you do that, you're dumb. ~~And will make me cry.~~
 
+I do not have any affiliation with Roblox or Spotify, I'm just a random developer on the Internet.
+
 # Bloxify
 
 <a href="https://github.com/atlasc0r3/bloxify">

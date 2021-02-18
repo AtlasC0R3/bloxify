@@ -17,6 +17,10 @@ This is a Roblox/Lua module script built for Roblox games, to connect Roblox and
 I do not have any affiliation with Roblox or Spotify, I'm just a random developer on the Internet who wrote an API wrapper because they were bored. 
 You will have to put a censorship if you share what the local user is listening to, to other players. Also don't make the user play songs that contain swearing. Or NSFW. If you do that, you're probably going to get banned. ~~And will make me chase after you.~~
 
+This is still under some "alpha" phase: I am still looking for ways for the user to be able to log in *without* needing to input their API token
+(probably by telling the script to direct the user to a Spotify authentication page to say "yes yes i am spotify account, allow bloxify to access my account"),
+so if you want to include this in your script, please wait until ~~I stop procrastinating and~~ that gets done.
+
 ## Setup/Installation
 
 So, you've decided you wanted to implement this in your game, or that you just want to screw around with it to see how it works.
